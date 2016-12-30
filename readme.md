@@ -24,6 +24,9 @@ However, wasps work as a hive, and achieve a single system. In otherwords, they 
 Also, the yellow jacket wasp is one of my (nhumrich) greatest fears, so naming this wasp
 is also a wierd way of "conquering" my fears.
 
+## Current frameworks
+[waspy - Python asyncio framewok](https://github.com/wasp/waspy)
+
 ## License
 Apache-2.0
 
