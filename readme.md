@@ -18,7 +18,7 @@ at the same time without having to modify your code at all.
 ## Etymology
 `wasp` stands for a Wicked Async Services Platform. 
 It can also stand for Web Application Service Platform if that suits you better.
-Wasps are also a very powerful insect. Most wasps are strong enough to stand up for themselves.
+Wasps are also a very powerful insect. Most wasps are strong enough to stand up for (as in, defend) themselves.
 However, wasps work as a hive, and achieve a single system. In otherwords, they are "microserviced".
 
 Also, the yellow jacket wasp is one of my (nhumrich) greatest fears, so naming this wasp
