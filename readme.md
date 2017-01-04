@@ -1,6 +1,6 @@
 # wasp
 
-Wasp is a asynchronous "transport-agnostic" web framework project.
+WASP is a asynchronous "transport-agnostic" web framework project.
 The goal is to allow you to spin up a RESTful web service that can listen on any transport
 such as HTTP, RabbitMQ, or others.
 
